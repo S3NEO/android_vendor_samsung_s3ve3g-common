@@ -157,7 +157,9 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
-	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so
 	
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
