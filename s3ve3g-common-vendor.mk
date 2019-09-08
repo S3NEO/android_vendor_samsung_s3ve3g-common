@@ -41,6 +41,9 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libcsd-client.so:system/vendor/lib/libcsd-client.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/efsks:system/vendor/bin/efsks \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/ks:system/vendor/bin/ks \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/qcks:system/vendor/bin/qcks \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libarcsoft_flawlessface.so:system/vendor/lib/libarcsoft_flawlessface.so \
@@ -115,8 +118,12 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/ds_fmc_appd:system/vendor/bin/ds_fmc_appd \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libprotobuf-cpp-lite.so:system/vendor/lib/libprotobuf-cpp-lite.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libprotobuf-cpp-shit.so:system/vendor/lib/libprotobuf-cpp-shit.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
