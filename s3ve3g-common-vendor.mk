@@ -119,7 +119,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/ds_fmc_appd:system/vendor/bin/ds_fmc_appd \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libprotobuf-cpp-lite.so:system/vendor/lib/libprotobuf-cpp-lite.so \
-	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libprotobuf-cpp-shit.so:system/vendor/lib/libprotobuf-cpp-shit.so \
+	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libprotobuf-cpp-crap.so:system/vendor/lib/libprotobuf-cpp-crap.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
