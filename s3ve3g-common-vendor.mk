@@ -13,6 +13,7 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
+	vendor/samsung/s3ve3g-common/proprietary/system/lib/libfmjni.so:system/lib/libfmjni.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/hw/sensors.vendor.msm8226.so:system/vendor/lib/hw/sensors.vendor.msm8226.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/lib/hw/camera.vendor.msm8226.so:system/vendor/lib/hw/camera.vendor.msm8226.so \
 	vendor/samsung/s3ve3g-common/proprietary/system/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
