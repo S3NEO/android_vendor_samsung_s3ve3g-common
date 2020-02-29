@@ -51,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libTsAe.so:system/vendor/lib/libTsAe.so \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libTsAf.so:system/vendor/lib/libTsAf.so \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libTs_J_Accm.so:system/vendor/lib/libTs_J_Accm.so \
-    vendor/samsung/s3ve3g-common/proprietary/lib/libfmjni.so:system/lib/libfmjni.so \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libarcsoft_flawlessface.so:system/vendor/lib/libarcsoft_flawlessface.so \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libarcsoft_night_shot.so:system/vendor/lib/libarcsoft_night_shot.so \
     vendor/samsung/s3ve3g-common/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:system/vendor/lib/libarcsoft_panorama_burstcapture.so \
@@ -169,4 +168,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
-    TimeService
+    TimeService \
+    libfmjni
